@@ -1,0 +1,28 @@
+.fondo {
+    background: rgb(235, 75, 235);
+    background: purple;
+}
+
+.letra>ul>li>a {
+    color: #4e4c52 !important;
+}
+
+.bg-primary {
+    background: #d8bbff !important;
+}
+
+.boton {
+    background: #d5aedd;
+    color: white;
+    border: 1px solid white;
+}
+
+.boton:hover {
+    border: 1px solid white;
+    background: #d8bbff;
+    color: #4e4c52;
+}
+
+border {
+    border: 1px solid rgb(255, 255, 255);
+}
